@@ -3,6 +3,8 @@ Customizable HTML 5-column layout for home page or whatever you like.
 
 ![screenshot](newTab.png)
 
+![screenshot](newTabCustom.png)
+
 ## CSS
 Customize CSS for overall width, column width, colors, etc.
 
