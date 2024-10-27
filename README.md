@@ -19,6 +19,9 @@ Keep it, replace it, remove it.
 ## Bottom Anchor
 Remove if you wish. It's just my site.
 
+## Font
+This template uses Jetbrains Mono FOSS: https://www.jetbrains.com/lp/mono/
+
 ## Usage
 Just place the directory on your drive somewhere and point your browser's New Tab page to home.html in that folder.
 
