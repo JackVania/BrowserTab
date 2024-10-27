@@ -27,6 +27,3 @@ Just place the directory on your drive somewhere and point your browser's New Ta
 
 ## Editing
 Any text editor will suffice.
-
-## About ME
-https://jackvania.com
