@@ -19,6 +19,9 @@ Keep it, replace it, remove it.
 ## Bottom Anchor
 Remove if you wish. It's just my site.
 
+## Top Anchor
+Holds the clock.
+
 ## Font
 This template uses Jetbrains Mono FOSS: https://www.jetbrains.com/lp/mono/
 
