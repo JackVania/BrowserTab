@@ -6,8 +6,27 @@
 <link rel="icon" type="image/x-icon" href="favicon.png">
 <link rel="stylesheet" href="homepage.css">
 <title>New Tab</title>
+
+<!-- TIME SCRIPT -->
+<script>
+  const timeDiv = document.getElementById("time");
+
+  function updateTime()
+  {
+    const now = new Date();
+    const formattedTime = now.toLocaleTimeString(); //with seconds
+    // const formattedTime = now.toLocaleTimeString([], {timeStyle: 'short'}); //no seconds
+    document.querySelector('#time').textContent = formattedTime;
+  }
+  setInterval(updateTime, 1000);
+</script>
+<!-- TIME SCRIPT -->
+
 </head>
 <body>
+  <!-- TIME DISPLAY -->
+  <div class="anchortop"><span id="time"></span></div>
+  <!-- TIME DISPLAY -->
 
   <!-- START COLUMNS -->
   <div class="row">
@@ -59,7 +78,7 @@
   <!-- END COLUMNS -->
 
   <!-- BOTTOM ANCHOR -->
-  <div class="anchored"> <p><a href="https://jackvania.com">jackvania.com</a></p></div>
+  <div class="anchorbottom"> <p><a href="https://jackvania.com">jackvania.com</a></p></div>
   <!-- BOTTOM ANCHOR -->
 </body>
 </html>
