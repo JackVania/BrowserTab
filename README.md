@@ -7,7 +7,7 @@ Customizable HTML 5-column layout for home page or whatever you like with large 
 
 ![screenshot](html.png)
 
-![screenshot](clock.png.png)
+![screenshot](clock.png)
 
 ## CSS
 Customize CSS for overall width, column width, colors, etc.
