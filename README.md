@@ -29,4 +29,4 @@ This template uses Jetbrains Mono FOSS: https://www.jetbrains.com/lp/mono/
 Just place the directory on your drive somewhere and point your browser's New Tab page to home.html in that folder.
 
 ## Editing
-Any text editor will suffice.
+Any text editor will suffice. Column widths are hard-coded and center floating. Change font size and width as you like.
