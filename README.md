@@ -1,11 +1,13 @@
-# BrowswerTab
-Customizable HTML 5-column layout for home page or whatever you like.
+# New Browswer Tab
+Customizable HTML 5-column layout for home page or whatever you like with large display clock.
 
 ![screenshot](newTab.png)
 
 ![screenshot](newTabCustom.png)
 
 ![screenshot](html.png)
+
+![screenshot](clock.png.png)
 
 ## CSS
 Customize CSS for overall width, column width, colors, etc.
