@@ -5,9 +5,10 @@ Customizable HTML 5-column layout for home page or whatever you like with large 
 
 ![screenshot](newTabCustom.png)
 
-![screenshot](html.png)
-
 ![screenshot](clock.png)
+
+## Why?
+It's not a browser extension so it will work in all browsers: you can edit the HTML and take it with you from browser to browswer.
 
 ## CSS
 Customize CSS for overall width, column width, colors, etc.
