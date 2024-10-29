@@ -20,7 +20,7 @@ Keep it, replace it, remove it.
 Remove if you wish. It's just my site.
 
 ## Top Anchor
-Holds the clock.
+Holds the clock. Click the clock to go to the clock page for a large clock on blank screen.
 
 ## Font
 This template uses Jetbrains Mono FOSS: https://www.jetbrains.com/lp/mono/

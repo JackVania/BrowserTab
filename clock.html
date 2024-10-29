@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="favicon.png">
+<link rel="stylesheet" href="homepage.css">
+<title>Clock</title>
+
+<script>
+// TIME SCRIPT
+  const timeDiv = document.getElementById("time");
+
+  function updateTime()
+  {
+    const now = new Date();
+    const formattedTime = now.toLocaleTimeString(); //with seconds
+    // const formattedTime = now.toLocaleTimeString([], {timeStyle: 'short'}); //no seconds
+    document.querySelector('#time').textContent = formattedTime;
+  }
+  setInterval(updateTime, 1000);
+// TIME SCRIPT
+</script>
+
+</head>
+
+<style>
+  .clockness
+  {
+    font-size: 100px;
+    font-weight: bold;
+  }
+</style>
+<body class="element">
+
+<div class="outside">
+  <div class="inside">
+  <!-- START COLUMNS -->
+    <div class="row">
+      <!-- TIME DISPLAY -->
+      <div class="clockness"><span id="time"></span></div>
+      <!-- TIME DISPLAY -->
+    </div>
+    <!-- END COLUMNS -->
+  </div>
+</div>
+
+</body>
+</html>
